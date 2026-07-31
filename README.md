@@ -10,9 +10,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Amanullah</h1>
-<h3 align="center">A AI/ML developer from India</h3>
+<h3 align="center"> AI/ML developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdamanullah-blip&label=Profile%20views&color=0e75b6&style=flat" alt="mdamanullah-blip" /> </p>
+
 
 - 🔭 I’m currently working on **emotion_detection_project**
 
