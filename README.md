@@ -9,9 +9,15 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Md Amanullah</h1>
-<h3 align="center"> AI/ML developer from India</h3>
+## 👨‍💻 About Me
 
+Hi, I'm **Md Amanullah**, an MCA (AI & ML) student passionate about Artificial Intelligence, Machine Learning, and Data Science.
+
+- 🌱 Currently learning **Deep Learning, NLP, and Generative AI**
+- 💻 Skilled in **Python, Machine Learning, TensorFlow, PyTorch, and Scikit-learn**
+- 📊 Interested in building AI-powered applications and solving real-world problems
+- 🚀 Currently working on AI/ML projects to strengthen my practical skills
+- 📫 Open to internships and collaboration opportunities## 👨‍💻 About Me
 
 
 - 🔭 I’m currently working on **emotion_detection_project**
