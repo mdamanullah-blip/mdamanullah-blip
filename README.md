@@ -22,7 +22,7 @@ Hi, I'm **Md Amanullah**, an MCA (AI & ML) student passionate about Artificial I
 
 - 🔭 I’m currently working on **emotion_detection_project**
 
-- 📫 How to reach me **md.amanullah@rungta.org**
+- 📫 How to reach me **amanumd041@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
