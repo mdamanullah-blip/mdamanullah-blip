@@ -6,7 +6,11 @@ AI & Machine Learning Enthusiast | Python Developer | MCA (AI & ML) Student
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mdamanullah-blip&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/mdamanullah-blip?label=Followers&style=for-the-badge&color=blue"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdamanullah-blip&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/mdamanullah-blip?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Internship-success?style=for-the-badge" />
+</p>
 <img src="https://img.shields.io/github/stars/mdamanullah-blip?affiliations=OWNER&style=social"/>
 </p>
 
