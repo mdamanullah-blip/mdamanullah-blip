@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Harish%20Nirmalkar&fontSize=48&fontAlignY=35" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Md%20Amanullah&fontSize=48&fontAlignY=35" width="100%">
 <p align="center">
-  🛡️ Cyber Security | ☁️ Cloud Infrastructure | 🌐 Network Defense
+  🛡️ AI/ML | ☁️ DBMS | 🌐 DSA
 </p>
 <br>
 <!-- PROFILE VIEWS COUNTER -->
