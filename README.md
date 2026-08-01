@@ -10,8 +10,7 @@ AI & Machine Learning Enthusiast | Python Developer | MCA (AI & ML) Student
   <img src="https://img.shields.io/github/followers/mdamanullah-blip?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Internship-success?style=for-the-badge" />
 </p>
-<img src="https://img.shields.io/github/stars/mdamanullah-blip?affiliations=OWNER&style=social"/>
-</p>
+
 
 ---
 
