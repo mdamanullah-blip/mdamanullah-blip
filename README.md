@@ -131,9 +131,8 @@ AI-powered Emotion Detection application built using Deep Learning that predicts
 
 
 
-
-## 🐍 Contribution Snake
+## 🕹️ Pac-Man Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mdamanullah-blip/mdamanullah-blip/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+<img src="https://raw.githubusercontent.com/mdamanullah-blip/mdamanullah-blip/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph"/>
 </p>
