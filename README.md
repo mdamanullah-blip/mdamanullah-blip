@@ -134,5 +134,5 @@ AI-powered Emotion Detection application built using Deep Learning that predicts
 ## 🎮 Coding Mode
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70"/>
 </p>
