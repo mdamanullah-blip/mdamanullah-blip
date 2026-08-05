@@ -130,9 +130,8 @@ AI-powered Emotion Detection application built using Deep Learning that predicts
 
 
 
-
-## 🎮 Coding Mode
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70"/>
+  <img src="https://raw.githubusercontent.com/mdamanullah-blip/mdamanullah-blip/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
